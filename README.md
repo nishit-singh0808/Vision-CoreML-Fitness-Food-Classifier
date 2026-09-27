@@ -43,7 +43,3 @@ Models/              Image, workout, and nutrition Core ML models
 Vision+Core-ML.xcodeproj/
                      Xcode project and shared scheme
 ```
-
-## Model and source attributions
-
-This project includes code and models derived from or distributed with their own license and attribution terms. Keep the notices in `LICENSE/` and `Models/` when copying or redistributing the project. In particular, review `Models/LICENSE.txt` and `Models/NOTICE.txt` for the included MobileNet attribution. The notices do not necessarily describe the terms for every model in `Models/`.
