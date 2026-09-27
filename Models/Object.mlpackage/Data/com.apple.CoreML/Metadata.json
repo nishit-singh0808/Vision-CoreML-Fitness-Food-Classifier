@@ -1,0 +1,6 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "MobileNets are based on a streamlined architecture that have depth-wise separable convolutions to build light weight deep neural networks. Trained on ImageNet with categories such as trees, animals, food, vehicles, person etc. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications https:\/\/github.com\/shicai\/MobileNet-Caffe",
+  "MLModelAuthorKey" : "Nishit Choudhary",
+  "MLModelLicenseKey" : "--"
+}
